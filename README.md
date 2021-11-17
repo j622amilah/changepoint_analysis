@@ -1,4 +1,4 @@
-# changepoint_analysis
+# Changepoint_analysis
 
 function [num_of_changepoint, loc_of_changepoint] = changepoint_bootstrap2(x)
 
